@@ -1,0 +1,4 @@
+St$ = "~!@#$%^&|\/.*=|`'"""
+For i% = 1 To Len(St$)
+txt = Replace(txt, Mid(St$, i, 1), "_")
+Next
