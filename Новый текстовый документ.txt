@@ -7,3 +7,5 @@ or C_21 like '115_FZ%'
 or C_21 like 'PRC_AGR_MIN_SALDO%' 
 or C_21 like 'NOM_INFO%')
 and C_8 in (
+
+\\Client\C$\Users\SUREV_DA\Desktop\projects\block\Блокировка_dd.MM.yyyy.xlsx
